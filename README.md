@@ -1,8 +1,11 @@
 
-# FLASK_PILLOW
+# VILLOW 🏠
 > By Matthew Stuart, Doug Hellberg, Bailey Bell, Eman Zek Gurang
 #
-## In Pillow_Finder the user will be able to find a place to sleep based on their plans of being a home.
+## Villow is a web application that allows users to freely epxlore a variety of homes, creating, updating, and deleting home posts of their own.
+
+# GITHUB REPO
+> https://github.com/Matt827/Phase-4-Group-3-Project
 
 # Functionality
 
@@ -11,17 +14,15 @@
     Update- houses,accounts
     D - houses, accounts
 
-
-
 # User Experience
 User experience:
 
 
 
-# Objective
-
-> 
-
+# Stretch Goals
+> Favoriting homes
+> Comments and reviews on homes
+> Geocoding
 
 
 # Entity relationship diagram 
