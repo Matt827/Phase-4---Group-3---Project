@@ -6,9 +6,10 @@
 
 # Functionality
 
-    C - 
-    R-
-    D - 
+    Create - houses, accounts
+    Read- houses
+    Update- houses,accounts
+    D - houses, accounts
 
 
 
