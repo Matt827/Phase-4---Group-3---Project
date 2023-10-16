@@ -21,6 +21,10 @@ class House(db.model, SerializerMixin):
     
     id = db.Column(db.Integer, primary_key = True)
     address = db.Column(db.String)
+    description = db.Column(db.String)
+    num_of_beds = db.Column(db.String)
+    num_of_baths = db.Column(db.String)
+    square_feet = db.Column(db.Integer)
 
 class Account(db.model, SerializerMixin):
     __tablename__ = 'accounts'
