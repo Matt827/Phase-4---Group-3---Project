@@ -8,23 +8,38 @@
 > https://github.com/Matt827/Phase-4-Group-3-Project
 
 # Functionality
-
     Create - houses, accounts
     Read- houses
     Update- houses,accounts
     D - houses, accounts
 
-# User Experience
-User experience:
+# API routes
+> /houses GET, POST
+> /houses/id GET, DELETE, PATCH
+> /profile GET
 
-
+# React Diagram
+> App
+    > Home
+        > Header
+        > Details
+    > HousePage
+        > HouseList
+            > HouseCard
+                > GeoMap
+            > HouseForm
+    > Search
+    > Profile
+        > Posts
 
 # Stretch Goals
 > Favoriting homes
 > Comments and reviews on homes
 > Geocoding
 
-
 # Entity relationship diagram 
+
+<img src="/images/RELATIONSHIP.png" >
+<img src="/images/Wireframe.png" >
 
 
