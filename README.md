@@ -14,9 +14,9 @@
     - DELETE : houses, accounts
 
 # API routes
-    - /houses GET, POST
-    - /houses/id GET, DELETE, PATCH
-    - /profile GET
+- /houses GET, POST
+- /houses/id GET, DELETE, PATCH
+- /profile GET
 
 # React Diagram
 - App
